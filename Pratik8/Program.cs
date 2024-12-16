@@ -11,7 +11,7 @@ while (i <= limit)
     i++;
 }
 
-i = 0;
+i = 0; // sayacı sıfırla
 do
 {
     Console.WriteLine($"{i}) Ben bir Patika'lıyım");
